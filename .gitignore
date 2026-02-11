@@ -1,0 +1,8 @@
+# Dependencies
+node_modules
+
+# VitePress
+.vitepress/dist
+
+# GitHub Pages
+.github/workflows/deploy.yml
